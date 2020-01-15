@@ -1,3 +1,6 @@
 Git practicals of class
 
     First file creation in github rep
+
+
+	Modifying login file in local rep.
