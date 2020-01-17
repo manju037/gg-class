@@ -1,1 +1,8 @@
 A new file is created to learn git concepts.
+
+1)Learning staging concepts.
+    test1. a)modify this file and stage it but not commit
+        b)again make changes to this file but do not add to staging area
+        C)compare the files in wd staging and in local rep
+    
+   
