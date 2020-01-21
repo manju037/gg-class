@@ -6,3 +6,4 @@ Git practicals of class
 	Modifying login file in local rep.
         making changes for learning staging concept.
 	Learning git commands
+        practising branching
