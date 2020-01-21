@@ -9,4 +9,6 @@ A new file is created to learn git concepts.
         using git commit -am message command
 
     
-3)adding these lines in newBranch to understand branching 
+3)adding these lines in newBranch to understand branching
+
+4)modifying in branch 'testBranch' to understand merging 
